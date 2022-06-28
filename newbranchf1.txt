@@ -1,0 +1,3 @@
+file 1 in then newBranch
+
+modification in new branch after commiting and pushing to remote repo
